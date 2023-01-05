@@ -1,0 +1,15 @@
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\bin\Debug\net7.0\DigitalInovation.exe
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\bin\Debug\net7.0\DigitalInovation.deps.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\bin\Debug\net7.0\DigitalInovation.runtimeconfig.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\bin\Debug\net7.0\DigitalInovation.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\bin\Debug\net7.0\DigitalInovation.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\DigitalInovation.csproj.AssemblyReference.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\DigitalInovation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\DigitalInovation.AssemblyInfoInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\DigitalInovation.AssemblyInfo.cs
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\DigitalInovation.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\DigitalInovation.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\refint\DigitalInovation.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\DigitalInovation.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\DigitalInovation.genruntimeconfig.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\Estudos iniciais\DigitalInovation\obj\Debug\net7.0\ref\DigitalInovation.dll
