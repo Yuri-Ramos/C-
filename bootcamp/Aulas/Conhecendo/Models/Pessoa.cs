@@ -13,6 +13,7 @@ namespace Conhecendo.Models
         public int Idade { get; set; }
         //evitar abreviações e sem caracter especial, apenas o __
         public string? NomeRepresentanteLegalDaPessoaFisica{get;set;}
+        
 
         //nome de metodo é sempre PascalCase
                 public void Apresentar()
