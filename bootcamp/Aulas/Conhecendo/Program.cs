@@ -1,2 +1,7 @@
 ﻿using Conhecendo.Models;
-Pessoa p = new Pessoa();
+Pessoa pessoa1 = new Pessoa();
+
+pessoa1.Nome ="Yuri";
+pessoa1.Idade = 18;
+
+pessoa1.Apresentar();
