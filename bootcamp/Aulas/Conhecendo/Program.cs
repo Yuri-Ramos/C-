@@ -1,4 +1,5 @@
 ﻿using Conhecendo.Models;
+// instancia de objeto com canelcase
 Pessoa pessoa1 = new Pessoa();
 
 pessoa1.Nome ="Yuri";
