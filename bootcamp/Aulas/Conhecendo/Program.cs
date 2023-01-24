@@ -1,8 +1,58 @@
 ﻿using Conhecendo.Models;
 
-DateTime dataAtual = DateTime.Now.AddDays(5);
-Console.WriteLine(dataAtual.ToString("yyyy-MM-dd"));
+//cast implicito
 
+// int h = 5;
+// double j=h;
+
+
+// int h = int.MaxValue;
+// double j=h;
+
+
+// Console.WriteLine(j);
+
+// ordem das operações é a mesma da matematica a ordem é alterada com parenteses
+
+double a = 4/(2+2);
+Console.WriteLine(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+// DateTime dataAtual = DateTime.Now.AddDays(5);
+// Console.WriteLine(dataAtual.ToString("yyyy-MM-dd"));
+// int a = 0;
+// int b= 1;
+// int c = a+b;
+
+// c= c+5;
+
+// c -= 5;
+//cast-casting 
+// int d = Convert.ToInt32("5"); //convert altera null para 0.
+// int d= int.Parse("5");// parce nao aceita nulo
+// int f = 5;
+// string g = f.ToString();// primario no java 
+
+
+// Console.WriteLine(a);
+
+
+
+
+
+
+// Console.WriteLine(c);
 
 // string apresentacao = "olá seja bem vindo";
 // int quantidade = 1;
