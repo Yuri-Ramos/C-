@@ -1,12 +1,53 @@
 ﻿using Conhecendo.Models;
 
-int quantidade = 03;
-int quantidadeCompra = 0;
-bool possivelVenda = quantidadeCompra >0 && quantidade>= quantidadeCompra;
+// programa para saber se a letra digitada é uma vogal ou não 
 
-Console.WriteLine($"Quantidade: {quantidade}")  ;
-Console.WriteLine($"QuantidadeCompra: {quantidadeCompra}");
-Console.WriteLine($"Possivel realizar venda ? {possivelVenda}");
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();
+
+
+// if(letra== "a" || letra=="e" || letra=="i" || letra=="o" || letra== "u"){
+//     Console.WriteLine($"a {letra} [e uma vogal");
+// }
+
+// else{
+//     Console.WriteLine($"a {letra} e uma consuante");
+
+// }
+switch(letra){
+case "a": 
+case "e": 
+case "i": 
+case "o": 
+case "u": 
+
+
+Console.WriteLine($"a {letra} e uma vogal");
+break;
+
+default:
+Console.WriteLine($"a {letra} e uma consuante");
+break;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+// int quantidade = 03;
+// int quantidadeCompra = 0;
+// bool possivelVenda = quantidadeCompra >0 && quantidade>= quantidadeCompra;
+
+// Console.WriteLine($"Quantidade: {quantidade}")  ;
+// Console.WriteLine($"QuantidadeCompra: {quantidadeCompra}");
+// Console.WriteLine($"Possivel realizar venda ? {possivelVenda}");
 
 // if (quantidadeCompra==0){
 // Console.WriteLine($"Possivel realizar venda: Não ! valor igual a zero");
@@ -19,21 +60,21 @@ Console.WriteLine($"Possivel realizar venda ? {possivelVenda}");
 
 
 
-if(quantidadeCompra==0) 
-{
-    Console.WriteLine($"venda nao posso ser = {quantidadeCompra}");
+// if(quantidadeCompra==0) 
+// {
+//     Console.WriteLine($"venda nao posso ser = {quantidadeCompra}");
    
     
-}
-else if (possivelVenda)
-{
-  Console.WriteLine("Venda realizada.");
-}
-else
-{
-    Console.WriteLine("Desculpe. agendaremos seu pedido por falta de estoque");
+// }
+// else if (possivelVenda)
+// {
+//   Console.WriteLine("Venda realizada.");
+// }
+// else
+// {
+//     Console.WriteLine("Desculpe. agendaremos seu pedido por falta de estoque");
     
-}
+// }
 
 
 
