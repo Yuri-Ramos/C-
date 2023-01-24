@@ -1,5 +1,82 @@
 ﻿using Conhecendo.Models;
 
+int quantidade = 03;
+int quantidadeCompra = 0;
+bool possivelVenda = quantidadeCompra >0 && quantidade>= quantidadeCompra;
+
+Console.WriteLine($"Quantidade: {quantidade}")  ;
+Console.WriteLine($"QuantidadeCompra: {quantidadeCompra}");
+Console.WriteLine($"Possivel realizar venda ? {possivelVenda}");
+
+// if (quantidadeCompra==0){
+// Console.WriteLine($"Possivel realizar venda: Não ! valor igual a zero");
+
+// }
+// else {
+
+// Console.WriteLine($"Possivel realizar venda ? {possivelVenda}");
+// }
+
+
+
+if(quantidadeCompra==0) 
+{
+    Console.WriteLine($"venda nao posso ser = {quantidadeCompra}");
+   
+    
+}
+else if (possivelVenda)
+{
+  Console.WriteLine("Venda realizada.");
+}
+else
+{
+    Console.WriteLine("Desculpe. agendaremos seu pedido por falta de estoque");
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //cast implicito
 
 // int h = 5;
@@ -14,8 +91,8 @@
 
 // ordem das operações é a mesma da matematica a ordem é alterada com parenteses
 
-double a = 4/(2+2);
-Console.WriteLine(a);
+// double a = 4/(2+2);
+// Console.WriteLine(a);
 
 
 
