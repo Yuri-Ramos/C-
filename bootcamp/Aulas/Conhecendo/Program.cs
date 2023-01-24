@@ -1,9 +1,57 @@
 ﻿using Conhecendo.Models;
 
+bool choveu = true;
+bool estaTarde= true;
+
+
+if (choveu && estaTarde)
+{
+    Console.WriteLine("Vou Pedalar");
+}
+else{
+    Console.WriteLine("Vou pedalar um outro dia");
+}
+
+
+
+
+
+
+
+
+
+// bool ehMaiorDeIdade = true;
+// bool possuiAutorizacaoDeResponsavel = false;
+
+// if (ehMaiorDeIdade && possuiAutorizacaoDeResponsavel)
+// {
+//     Console.WriteLine("Passou");
+// }
+// else {
+//     Console.WriteLine(" não Passou");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // programa para saber se a letra digitada é uma vogal ou não 
 
-Console.WriteLine("Digite uma letra");
-string letra = Console.ReadLine();
+// Console.WriteLine("Digite uma letra");
+// string letra = Console.ReadLine();
 
 
 // if(letra== "a" || letra=="e" || letra=="i" || letra=="o" || letra== "u"){
@@ -14,21 +62,21 @@ string letra = Console.ReadLine();
 //     Console.WriteLine($"a {letra} e uma consuante");
 
 // }
-switch(letra){
-case "a": 
-case "e": 
-case "i": 
-case "o": 
-case "u": 
+// switch(letra){
+// case "a": 
+// case "e": 
+// case "i": 
+// case "o": 
+// case "u": 
 
 
-Console.WriteLine($"a {letra} e uma vogal");
-break;
+// Console.WriteLine($"a {letra} e uma vogal");
+// break;
 
-default:
-Console.WriteLine($"a {letra} e uma consuante");
-break;
-}
+// default:
+// Console.WriteLine($"a {letra} e uma consuante");
+// break;
+// }
 
 
 
