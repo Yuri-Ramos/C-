@@ -1,16 +1,41 @@
 ﻿using Conhecendo.Models;
 
-bool choveu = true;
-bool estaTarde= true;
+
+Calculadora calc = new Calculadora();
+
+//  calc.Somar(5,6);
+//  calc.Subtrair(5,6);
+//  calc.Multiplicar(5,6);
+//  calc.Dividir(5,5);
+// calc.Potencia(5,6);
+
+int numero = 10;
+Console.WriteLine($"{numero++}");
+
+calc.Raiz(2);
 
 
-if (choveu && estaTarde)
-{
-    Console.WriteLine("Vou Pedalar");
-}
-else{
-    Console.WriteLine("Vou pedalar um outro dia");
-}
+
+
+
+
+
+
+
+
+
+
+// bool choveu = true;
+// bool estaTarde= true;
+
+
+// if (choveu && estaTarde)
+// {
+//     Console.WriteLine("Vou Pedalar");
+// }
+// else{
+//     Console.WriteLine("Vou pedalar um outro dia");
+// }
 
 
 
