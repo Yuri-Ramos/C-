@@ -1,6 +1,126 @@
 ﻿using Conhecendo.Models;
 
 
+
+string opcao;
+bool exibirMenu = true;
+
+while (exibirMenu)
+{
+
+    Console.Clear();
+    Console.WriteLine("Digite a opção.");
+    Console.WriteLine("1");
+    Console.WriteLine("2");
+    Console.WriteLine("3");
+   
+    opcao = Console.ReadLine();
+
+    switch (opcao){
+        case "1":
+    Console.WriteLine("menu");
+
+        break;
+        case "3":
+    Console.WriteLine("tirulipa");
+        exibirMenu=false;
+        break;
+        case "2":
+    Console.WriteLine("Digite a opção.");
+
+        break;
+        default:
+        Console.WriteLine("Opção invalida");
+        break;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// taboada de um determiando numero 
+
+// int soma =0,numero = 0;
+
+// do
+// {
+//    Console.WriteLine("Digite um numero ou 0 para parar");
+//     numero = Convert.ToInt32(Console.ReadLine());
+
+//     soma += numero;
+//     Console.WriteLine($" o resultado é ={soma}");
+//     // if (numero == 0){
+//     //     break;
+//     // }
+
+// }while(numero != 0);
+
+
+
+
+
+// int numero = 10;
+// Console.WriteLine(numero);
+// for (int i = 0; i <= numero; i++)
+// {
+//     Console.WriteLine($"{numero} x {i} = {numero*i}");
+// }
+// int f= 5;
+// while (f<=10)
+// {
+//     Console.WriteLine($"{numero} x {f} = {numero*f}");
+//     f++;
+//     if (f ==5){
+//         break;
+//     }
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Calculadora calc = new Calculadora();
 
 //  calc.Somar(5,6);
@@ -9,10 +129,10 @@ Calculadora calc = new Calculadora();
 //  calc.Dividir(5,5);
 // calc.Potencia(5,6);
 
-int numero = 10;
-Console.WriteLine($"{numero++}");
+// int numero = 10;
+// Console.WriteLine($"{numero++}");
 
-calc.Raiz(2);
+// calc.Raiz(2);
 
 
 
