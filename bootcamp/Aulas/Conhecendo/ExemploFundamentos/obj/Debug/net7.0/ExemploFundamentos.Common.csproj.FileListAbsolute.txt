@@ -1,0 +1,5 @@
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.Common.csproj.AssemblyReference.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos\obj\Debug\net7.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache

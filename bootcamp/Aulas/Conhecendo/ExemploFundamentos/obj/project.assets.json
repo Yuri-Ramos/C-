@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\Conhecendo.csproj",
-      "projectName": "Conhecendo",
-      "projectPath": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\Conhecendo.csproj",
+      "projectUniqueName": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\ExemploFundamentos\\ExemploFundamentos.Common.csproj",
+      "projectName": "ExemploFundamentos.Common",
+      "projectPath": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\ExemploFundamentos\\ExemploFundamentos.Common.csproj",
       "packagesPath": "C:\\Users\\ramos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\obj\\",
+      "outputPath": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",

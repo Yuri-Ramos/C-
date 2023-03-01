@@ -1,10 +1,78 @@
 ﻿using ExemploFundamentos.Common.Models;
 
-Pessoa pessoa1 = new Pessoa();
 
-pessoa1.Nome = "Yuri";
-pessoa1.Idade = 24;
-pessoa1.Apresentar();
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("sP");
+listaString.Add("sd");
+
+// for( int contador = 0; contador < listaString.Count; contador++ )
+
+// {
+//     console.WriteLine($"Posição N° {contador} - {listaString[contador]}");
+// }
+
+//com forache
+// int contadorForeach=0;
+// foreach( string item in listaString){
+//     console.WriteLine($"Posição N° {contadorForeach} - {item}");
+// }
+// int[] arrayInteiros = new int[3];
+
+// arrayInteiros[0] = 15;
+// arrayInteiros[1] = 65;
+// arrayInteiros[2] = 85;  
+
+
+
+// instanciando um novo array 
+// int[] arrayDobrado = new int[arrayInteiros.Length *2];
+// copiando o arrayInteiros para o arrayDobrado
+// Array.Copy(arrayInteiros, arrayDobrado, arrayInteiros.Length);
+
+// redimensionar o array 
+// Array.Resize(ref arrayInteiros, arrayInteiros.Length *2);
+//length= capacidade do array 
+//percorrendo o array com o for
+// for(int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+// console.WriteLine($"Posição N° {contador} - {arrayInteiros[contador]}");
+
+// }
+// para cada valor do array é recebido na variavel de Valor com tudo o array não pega o contador 
+
+// int contadorForeach = 0;
+// foreach(int valor in arrayInteiros)
+// {
+//     console.WriteLine($"{valor}  - {contadorForeach}");
+//     contadorForeach++;
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa pessoa1 = new Pessoa();
+
+// pessoa1.Nome = "Yuri";
+// pessoa1.Idade = 24;
+// pessoa1.Apresentar();
 // string opcao;
 // bool exibirMenu = true;
 
