@@ -1,0 +1,15 @@
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\refint\CursoCSharp.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\repos\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll

@@ -1,39 +1,42 @@
 ﻿using ExemploFundamentos.Common.Models;
 
+Pessoa pessoa1 = new Pessoa();
 
+pessoa1.Nome = "Yuri";
+pessoa1.Idade = 24;
+pessoa1.Apresentar();
+// string opcao;
+// bool exibirMenu = true;
 
-string opcao;
-bool exibirMenu = true;
+// while (exibirMenu)
+// {
 
-while (exibirMenu)
-{
-
-    Console.Clear();
-    Console.WriteLine("Digite a opção.");
-    Console.WriteLine("1");
-    Console.WriteLine("2");
-    Console.WriteLine("3");
+//     Console.Clear();
+//     Console.WriteLine("Digite a opção.");
+//     Console.WriteLine("1");
+//     Console.WriteLine("2");
+//     Console.WriteLine("3");
    
-    opcao = Console.ReadLine();
+//     opcao = Console.ReadLine();
 
-    switch (opcao){
-        case "1":
-    Console.WriteLine("menu");
+//     switch (opcao){
+//         case "1":
+//     Console.WriteLine("menu");
 
-        break;
-        case "3":
-    Console.WriteLine("tirulipa");
-        exibirMenu=false;
-        break;
-        case "2":
-    Console.WriteLine("Digite a opção.");
+//         break;
+//         case "3":
+//     Console.WriteLine("tirulipa");
+//         exibirMenu=false;
+//         break;
+//         case "2":
+//     Console.WriteLine("Digite a opção.");
 
-        break;
-        default:
-        Console.WriteLine("Opção invalida");
-        break;
-    }
-}
+//         break;
+//         default:
+//         Console.WriteLine("Opção invalida");
+//         break;
+//     }
+// }
 
 
 
