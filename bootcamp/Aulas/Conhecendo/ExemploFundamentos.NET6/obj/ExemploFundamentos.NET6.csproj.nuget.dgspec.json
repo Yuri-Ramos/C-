@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\ExemploFundamentos.NET5\\ExemploFundamentos.NET5.csproj": {}
+    "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\exemploFundamentos.NET6\\ExemploFundamentos.NET6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\ExemploFundamentos.NET5\\ExemploFundamentos.NET5.csproj": {
+    "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\exemploFundamentos.NET6\\ExemploFundamentos.NET6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\ExemploFundamentos.NET5\\ExemploFundamentos.NET5.csproj",
-        "projectName": "ExemploFundamentos.NET5",
-        "projectPath": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\ExemploFundamentos.NET5\\ExemploFundamentos.NET5.csproj",
+        "projectUniqueName": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\exemploFundamentos.NET6\\ExemploFundamentos.NET6.csproj",
+        "projectName": "ExemploFundamentos.NET6",
+        "projectPath": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\exemploFundamentos.NET6\\ExemploFundamentos.NET6.csproj",
         "packagesPath": "C:\\Users\\ramos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\ExemploFundamentos.NET5\\obj\\",
+        "outputPath": "C:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\Conhecendo\\exemploFundamentos.NET6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",

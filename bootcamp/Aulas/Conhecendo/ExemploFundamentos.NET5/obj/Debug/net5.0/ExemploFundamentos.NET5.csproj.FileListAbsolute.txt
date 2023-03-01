@@ -1,0 +1,16 @@
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.exe
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.deps.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.runtimeconfig.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.runtimeconfig.dev.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.csproj.AssemblyReference.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.AssemblyInfoInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.AssemblyInfo.cs
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\refint\ExemploFundamentos.NET5.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.genruntimeconfig.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\ExemploFundamentos.NET5\obj\Debug\net5.0\ref\ExemploFundamentos.NET5.dll
