@@ -1,0 +1,15 @@
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\bin\Debug\net7.0\Conhecendo.exe
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\bin\Debug\net7.0\Conhecendo.deps.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\bin\Debug\net7.0\Conhecendo.runtimeconfig.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\bin\Debug\net7.0\Conhecendo.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\bin\Debug\net7.0\Conhecendo.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\Conhecendo.csproj.AssemblyReference.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\Conhecendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\Conhecendo.AssemblyInfoInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\Conhecendo.AssemblyInfo.cs
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\Conhecendo.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\Conhecendo.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\refint\Conhecendo.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\Conhecendo.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\Conhecendo.genruntimeconfig.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\Conhecendo\obj\Debug\net7.0\ref\Conhecendo.dll
