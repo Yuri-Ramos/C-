@@ -1,0 +1,15 @@
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
