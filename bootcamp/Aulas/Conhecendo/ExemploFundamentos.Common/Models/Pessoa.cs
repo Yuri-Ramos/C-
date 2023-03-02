@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 namespace ExemploFundamentos.Common.Models
 {
     //nome de classe é sempre PascalCase
+
+    /// <summary>
+    /// Representa uma pessoa fisica
+    /// </summary>
     public class Pessoa
     {   
         // nome de propriedade PascalCase
@@ -16,6 +20,10 @@ namespace ExemploFundamentos.Common.Models
         
 
         //nome de metodo é sempre PascalCase
+
+        /// <summary>
+        /// Faz a pessoa se apresentar com nome e idade
+        /// </summary>
                 public void Apresentar()
         {
             //Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos.");
