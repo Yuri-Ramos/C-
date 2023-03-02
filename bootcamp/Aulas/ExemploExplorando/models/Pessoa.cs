@@ -5,9 +5,20 @@ using System.Threading.Tasks;
 
 namespace ExemploExplorando.models
 {
+    
+    
     public class Pessoa
     {
-        
+        public Pessoa()
+        { 
+
+        }
+        public Pessoa(string nome, string sobrenome)
+        {
+                this.Nome = nome;
+            this.Sobrenome = sobrenome;
+        }
+
         private string _nome; // não aceita valores nulos
         public string Nome
         {
