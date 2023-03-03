@@ -34,10 +34,22 @@ namespace ExemploExplorando.models
             return quantidade;
         }
         public void ListarAlunos(){
-            foreach (Pessoa aluno in Alunos)
+            Console.WriteLine($"Alunos do curso: {Nome}");
+
+            for (int count=0; count < Alunos.Count; count++)
             {
-                Console.WriteLine($"Aluno: {aluno.NomeCompleto}");
+                
+                string texto = "  N° " + (count+1)+"  " + Alunos[count].NomeCompleto;
+                Console.WriteLine(texto);
+                // Console.WriteLine($"Aluno n°: {Alunos[count].NomeCompleto}"+texto);
             }
+
+            // int contador = 0;
+            // foreach (Pessoa aluno in Alunos)
+            // {
+            //     contador++;
+            //     Console.WriteLine($"Aluno n°{contador}: {aluno.NomeCompleto}");
+            // }
         }
     }
 }
