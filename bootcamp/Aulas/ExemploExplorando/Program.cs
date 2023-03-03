@@ -2,30 +2,51 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
-DateTime dateTime = DateTime.Now;
-// iso 8601 padroniza a data entre sistemas
-List<Venda> list = new List<Venda>();
+string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
 
-Venda v1 = new Venda(1,"material", 25.00M, dateTime);
-Venda v2 = new Venda(2,"materiala", 35.00M,dateTime);
-Venda v3 = new Venda(1,"materiala", 35.00M,dateTime);
-Venda v4 = new Venda(1,"materiala", 35.00M,dateTime);
-Venda v5 = new Venda(1,"materiala", 35.00M,dateTime);
-Venda v6 = new Venda(1,"materiala", 35.00M,dateTime);
-
-list.Add(v1);
-list.Add(v2);
-list.Add(v3);
-list.Add(v4);
-list.Add(v5);
-list.Add(v6);
+List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
 
 
-string json = JsonConvert.SerializeObject(list, Formatting.Indented);
+foreach(Venda venda in listaVenda)
+{
+    Console.WriteLine($"Venda {venda.Id} produto {venda.Produto} Preço {venda.Preco}");
+}
 
-File.WriteAllText("Arquivos/vendas.json", json);
 
-Console.WriteLine(json);
+
+
+
+
+
+
+
+
+
+
+// DateTime dateTime = DateTime.Now;
+// // iso 8601 padroniza a data entre sistemas
+// List<Venda> list = new List<Venda>();
+
+// Venda v1 = new Venda(1,"material", 25.00M, dateTime);
+// Venda v2 = new Venda(2,"materiala", 35.00M,dateTime);
+// Venda v3 = new Venda(1,"materiala", 35.00M,dateTime);
+// Venda v4 = new Venda(1,"materiala", 35.00M,dateTime);
+// Venda v5 = new Venda(1,"materiala", 35.00M,dateTime);
+// Venda v6 = new Venda(1,"materiala", 35.00M,dateTime);
+
+// list.Add(v1);
+// list.Add(v2);
+// list.Add(v3);
+// list.Add(v4);
+// list.Add(v5);
+// list.Add(v6);
+
+
+// string json = JsonConvert.SerializeObject(list, Formatting.Indented);
+
+// File.WriteAllText("Arquivos/vendas.json", json);
+
+// Console.WriteLine(json);
 
 
 
