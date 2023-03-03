@@ -1,19 +1,118 @@
 ﻿using ExemploExplorando.models;
 using System.Globalization;
+using Newtonsoft.Json;
 
-// pode colocar muitos tipos de dados em uma só classe
-(int, string, string) tupla = (1, "yuri", "Ramos");
+DateTime dateTime = DateTime.Now;
+// iso 8601 padroniza a data entre sistemas
+List<Venda> list = new List<Venda>();
 
-Console.WriteLine($"id {tupla.Item1} {tupla.Item2} {tupla.Item3}");
+Venda v1 = new Venda(1,"material", 25.00M, dateTime);
+Venda v2 = new Venda(2,"materiala", 35.00M,dateTime);
+Venda v3 = new Venda(1,"materiala", 35.00M,dateTime);
+Venda v4 = new Venda(1,"materiala", 35.00M,dateTime);
+Venda v5 = new Venda(1,"materiala", 35.00M,dateTime);
+Venda v6 = new Venda(1,"materiala", 35.00M,dateTime);
 
-ValueTuple<int, string, string> outroExemplo =(1, "yuri", "Ramosss");
+list.Add(v1);
+list.Add(v2);
+list.Add(v3);
+list.Add(v4);
+list.Add(v5);
+list.Add(v6);
 
-// ou 
-// nao consegue nomear um obj
-var outroExemploTuple = Tuple.Create(1, "yuri", "Ramossss");
-Console.WriteLine($"id {outroExemplo.Item1} {outroExemplo.Item2} {outroExemplo.Item3}");
 
-Console.WriteLine($"id {outroExemploTuple.Item1} {outroExemploTuple.Item2} {outroExemploTuple.Item3}");
+string json = JsonConvert.SerializeObject(list, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json", json);
+
+Console.WriteLine(json);
+
+
+
+
+
+
+
+
+
+
+
+// int numero = 101;
+// bool ehPar = false;
+//  // if ternario
+// ehPar = numero % 2 == 0;
+// Console.WriteLine($"numero: {numero} é par ?" + (ehPar ? "Sim" : "não"));
+
+// // if (numero%2==0)
+// // {
+// //     Console.WriteLine($"o numero: {numero} é par ");
+// // }
+// // else
+// // {
+// //     Console.WriteLine($"o numero: {numero} é impar ");
+
+// // }
+
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Yuri", "Panos");
+
+// (string nome, string sobrenome) = p1;
+
+// Console.WriteLine($"Nome: {nome} {sobrenome}");
+
+
+
+
+
+
+
+
+// tuplas
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (Sucesso, Linhas, _) =arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if(Sucesso)
+// {   
+//     //Console.WriteLine($"Quantidade linhas do arquivo : {QuantidadedeLinhas}");
+//     foreach (string line in Linhas)
+//      {
+//         Console.WriteLine($"{line}");
+//      }
+// }
+//      else
+//      {
+//         Console.WriteLine("Nao foi possivel ler o aquivo");
+//      }
+
+
+
+
+
+
+
+
+
+// // pode colocar muitos tipos de dados em uma só classe
+// (int, string, string) tupla = (1, "yuri", "Ramos");
+
+// Console.WriteLine($"id {tupla.Item1} {tupla.Item2} {tupla.Item3}");
+
+// ValueTuple<int, string, string> outroExemplo =(1, "yuri", "Ramosss");
+
+// // ou 
+// // nao consegue nomear um obj
+// var outroExemploTuple = Tuple.Create(1, "yuri", "Ramossss");
+// Console.WriteLine($"id {outroExemplo.Item1} {outroExemplo.Item2} {outroExemplo.Item3}");
+
+// Console.WriteLine($"id {outroExemploTuple.Item1} {outroExemploTuple.Item2} {outroExemploTuple.Item3}");
 
 
 
