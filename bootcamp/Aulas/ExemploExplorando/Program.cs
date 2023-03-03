@@ -1,9 +1,129 @@
 ﻿using ExemploExplorando.models;
 using System.Globalization;
 
+// pode colocar muitos tipos de dados em uma só classe
+(int, string, string) tupla = (1, "yuri", "Ramos");
+
+Console.WriteLine($"id {tupla.Item1} {tupla.Item2} {tupla.Item3}");
+
+ValueTuple<int, string, string> outroExemplo =(1, "yuri", "Ramosss");
+
+// ou 
+// nao consegue nomear um obj
+var outroExemploTuple = Tuple.Create(1, "yuri", "Ramossss");
+Console.WriteLine($"id {outroExemplo.Item1} {outroExemplo.Item2} {outroExemplo.Item3}");
+
+Console.WriteLine($"id {outroExemploTuple.Item1} {outroExemploTuple.Item2} {outroExemploTuple.Item3}");
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+// Dictionary<string, string> estados = new Dictionary<string,string>();
+
+// estados.Add("Rio", "RJ");
+// estados.Add("bahia", "BH");
+// estados.Add("MINAs", "MG");
+
+
+// foreach (var estado in estados){
+// Console.WriteLine(estado);
+// }
+// estados.Remove("Rio");
+
+// estados["bahia"] = "BH foi alterdada";
+// foreach (var estado in estados){
+// Console.WriteLine(estado);
+// }
+
+// string chave = "Rio";
+// Console.WriteLine("Verificando a "+chave);
+// if (estados.ContainsKey(chave))
+// {
+//     Console.WriteLine("valor existe ");
+// }else {
+
+//     Console.WriteLine("Valor Não existente");
+
+// }
+
+
+
+
+
+
+
+
+// // tipo de pilha o Ultimo a entrar é o primeiro a sair 
+// Stack<int> pilha = new Stack<int>();
+
+// pilha.Push(0);
+// pilha.Push(4);
+// pilha.Push(7);
+// pilha.Push(3);
+
+
+// foreach(int item in pilha){
+//     Console.WriteLine(item);
+// }
+// pilha.Pop();
+
+// foreach(int item in pilha){
+//     Console.WriteLine("item: " + item);
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // Tipo de fila First in first out
+// Queue<int> fila = new Queue<int>();
+
+// fila.Enqueue(2);
+// fila.Enqueue(22);
+// fila.Enqueue(245);
+// fila.Enqueue(2789);
+
+
+// foreach (int i in fila){
+//     Console.WriteLine(i);
+
+
+// }
+// Console.WriteLine($"Fila: {fila.Dequeue()}");
+// //fila.Dequeue(); remove sempre o primeiro da fila 
+
+// fila.Enqueue(2759);
+
+// foreach (int i in fila){
+//     Console.WriteLine(i);
+
+
+// }
+
+
+
+
+
+// new ExemploExcecao().Metodo1();
 
 
 
