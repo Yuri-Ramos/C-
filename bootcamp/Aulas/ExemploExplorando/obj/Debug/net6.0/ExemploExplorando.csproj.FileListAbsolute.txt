@@ -13,3 +13,5 @@ C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplo
 C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
 C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CopyComplete

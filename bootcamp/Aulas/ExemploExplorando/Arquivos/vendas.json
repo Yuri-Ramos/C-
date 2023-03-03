@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Produto": "material",
+    "Preco": 25.00,
+    "DataVenda": "2023-03-03T17:40:21.6615159-03:00"
+  },
+  {
+    "Id": 2,
+    "Produto": "materiala",
+    "Preco": 35.00,
+    "DataVenda": "2023-03-03T17:40:21.6615159-03:00"
+  },
+  {
+    "Id": 1,
+    "Produto": "materiala",
+    "Preco": 35.00,
+    "DataVenda": "2023-03-03T17:40:21.6615159-03:00"
+  },
+  {
+    "Id": 1,
+    "Produto": "materiala",
+    "Preco": 35.00,
+    "DataVenda": "2023-03-03T17:40:21.6615159-03:00"
+  },
+  {
+    "Id": 1,
+    "Produto": "materiala",
+    "Preco": 35.00,
+    "DataVenda": "2023-03-03T17:40:21.6615159-03:00"
+  },
+  {
+    "Id": 1,
+    "Produto": "materiala",
+    "Preco": 35.00,
+    "DataVenda": "2023-03-03T17:40:21.6615159-03:00"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "Id": 1,
+  "Produto": "material",
+  "Preco": 25.00
+}

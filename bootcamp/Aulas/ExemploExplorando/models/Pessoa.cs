@@ -18,7 +18,11 @@ namespace ExemploExplorando.models
                 this.Nome = nome;
             this.Sobrenome = sobrenome;
         }
-
+        public void Desconstruct( out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
         private string _nome; // não aceita valores nulos
         public string Nome
         {
