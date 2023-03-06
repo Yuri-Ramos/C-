@@ -7,7 +7,17 @@ namespace ExemploPoo.Models
 {
     public class Professor : Pessoa
     {
+        public Professor()
+        {
+            
+        }
+        // quando é obrigatorio um requisito  na classe mae tem que ajustar nas classes filhas
+        public Professor(string name) : base(name) 
+        {
+            
+        }
         public decimal Salario { get; set; }
+
 
         public override void Apresentar() // assim como no java, no C# a anotaçao @override tbm existe 
         {
