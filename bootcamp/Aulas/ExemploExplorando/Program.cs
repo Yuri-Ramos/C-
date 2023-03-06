@@ -2,15 +2,108 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
-string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
-
-List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
 
 
-foreach(Venda venda in listaVenda)
-{
-    Console.WriteLine($"Venda {venda.Id} produto {venda.Produto} Preço {venda.Preco}");
-}
+MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+arrayInteiro.AdicionarElementoArray(30);
+
+Console.WriteLine(arrayInteiro[0]);
+
+
+MeuArray<string> arrayString = new MeuArray<string>();
+
+arrayString.AdicionarElementoArray("30");
+
+Console.WriteLine(arrayInteiro[0]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+// dynamic variavelDinamica = 56M; //variavel dinamica que pode ter varios tipos ao longo do programa
+// Console.WriteLine($"Tipo de arquivo: {variavelDinamica.GetType()},Valor: {variavelDinamica}");
+
+
+
+
+
+
+// String conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> venda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+// var listaAnonima = listaVenda.Select(x => new { x.produto, x.Preco });
+
+
+// foreach (var venda in listaAnonima)
+// {
+//     Console.WriteLine(venda.Produto + " " + venda.Preco);
+// }
+
+
+
+
+// // tipos anoimos podem apenas trazer o ger e nao mudar os valores nao pode retornar em metodos
+// var tipoAnonimo = new { Nome = "Leonardos", Sobrenome = "Do Pneu", Altura = "1.52" };
+// Console.WriteLine("nome: " + tipoAnonimo.Nome);
+// Console.WriteLine("nome: " + tipoAnonimo.Altura);
+// Console.WriteLine("nome: " + tipoAnonimo.Sobrenome);
+
+
+
+
+
+
+
+
+
+
+
+
+// //tipos nulos
+
+// bool? desejaReceberEmail = null;
+
+
+// if(desejaReceberEmail.HasValue && desejaReceberEmail.Value)
+// {
+//     Console.WriteLine("Deseja Receber");
+
+// }
+// //Console.WriteLine($"o usuario quer receber email ?"+ (desejaReceberEmail ? "Deseja" : "Não dejeja ou nao optou"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// string conteudoArquivo = File.ReadAllText("Arquivos/vendas.json");
+
+// List<Venda> listaVenda = JsonConvert.DeserializeObject<List<Venda>>(conteudoArquivo);
+
+
+// foreach(Venda venda in listaVenda)
+// {
+//     Console.WriteLine($"Venda {venda.Id} produto {venda.Produto} Preço {venda.Preco} desconto {(venda.Desconto.HasValue ? $"desconto: {venda.Desconto.Value:C2}":$"Sem desconto")}"); 
+// }
 
 
 
