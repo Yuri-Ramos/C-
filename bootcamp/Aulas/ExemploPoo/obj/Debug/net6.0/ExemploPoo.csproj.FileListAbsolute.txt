@@ -1,0 +1,15 @@
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\bin\Debug\net6.0\ExemploPoo.exe
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\bin\Debug\net6.0\ExemploPoo.deps.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\bin\Debug\net6.0\ExemploPoo.runtimeconfig.json
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\bin\Debug\net6.0\ExemploPoo.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\bin\Debug\net6.0\ExemploPoo.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ExemploPoo.csproj.AssemblyReference.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ExemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ExemploPoo.AssemblyInfoInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ExemploPoo.AssemblyInfo.cs
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ExemploPoo.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ExemploPoo.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\refint\ExemploPoo.dll
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ExemploPoo.pdb
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ExemploPoo.genruntimeconfig.cache
+C:\Users\ramos\Documents\Yuri Estudos\Projetos\C#\C-\bootcamp\Aulas\ExemploPoo\obj\Debug\net6.0\ref\ExemploPoo.dll
