@@ -3,14 +3,97 @@ using System.Globalization;
 using Newtonsoft.Json;
 
 
-int numero = 28;
 
-bool par = false;
-// if ternario
-par = numero.Ehpar();
-string message = "o numero " + " " + "é " + (par ? "par" : "impar");
+// // desafio 3 
 
-Console.WriteLine(message);
+//   // lê a quantidade de minutos restantes
+//         int minutosRestantes = int.Parse(Console.ReadLine());
+
+//         // lê o tempo necessário para fabricar os presentes
+//         string[] tempos = Console.ReadLine().Split();
+//         int tempo1 = int.Parse(tempos[0]);
+//         int tempo2 = int.Parse(tempos[1]);
+    
+//     if (       minutosRestantes >= tempo1 + tempo2                          )
+//     {
+//       Console.WriteLine("Farei hoje!");
+//     }
+//     else
+//     {
+//       Console.WriteLine("Deixa para amanha! ");
+//     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // desafio 2 explorando o C#
+//         // lê a duração do evento em segundos
+//         int duracaoEmSegundos = int.Parse(Console.ReadLine());
+
+//         // calcula horas, minutos e segundos
+//         int horas = duracaoEmSegundos / 3600;
+//         duracaoEmSegundos %= 3600;
+
+//         int minutos = duracaoEmSegundos / 60;
+//         duracaoEmSegundos %= 60;
+
+//         int segundos = duracaoEmSegundos;
+
+//         // exibe resultado
+//         Console.WriteLine(horas + ":" + minutos.ToString("00") + ":" + segundos.ToString("00"));
+
+// // desafio Dio Exprorando 1 C#
+// // lê a idade em dias
+//         int idadeEmDias = int.Parse(Console.ReadLine());
+
+//         // calcula anos, meses e dias
+//         int anos = idadeEmDias / 365;
+//         idadeEmDias %= 365;
+
+//         int meses = idadeEmDias / 30;
+//         idadeEmDias %= 30;
+
+//         int dias = idadeEmDias;
+
+//         // exibe resultado
+//         Console.WriteLine(anos + " ano(s)");
+//         Console.WriteLine(meses + " mes(es)");
+//         Console.WriteLine(dias + " dia(s)");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int numero = 28;
+
+// bool par = false;
+// // if ternario
+// par = numero.Ehpar();
+// string message = "o numero " + " " + "é " + (par ? "par" : "impar");
+
+// Console.WriteLine(message);
 
 
 

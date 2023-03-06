@@ -1,0 +1,15 @@
+Tipos de memoria
+
+
+satck e heap sao tipos de memoria no C#
+
+Stack é tipo pilha LIFO na memoria RAM
+
+objeto pode armazenar quaisquer coisa, e é um tipo complexo de um objeto, e vai ser armazenada
+no heap que é a memoria de CACHE
+
+LIMPEZA DE memoria
+
+a limpeza vem depois que o metodo é finalizado
+
+GARBAGE COLLECTOR vai excluir as ligaçoes que nao existem do heap ao STACK
