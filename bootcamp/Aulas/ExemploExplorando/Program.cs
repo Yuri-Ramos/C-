@@ -3,19 +3,41 @@ using System.Globalization;
 using Newtonsoft.Json;
 
 
+int numero = 28;
 
-MeuArray<int> arrayInteiro = new MeuArray<int>();
+bool par = false;
+// if ternario
+par = numero.Ehpar();
+string message = "o numero " + " " + "é " + (par ? "par" : "impar");
 
-arrayInteiro.AdicionarElementoArray(30);
-
-Console.WriteLine(arrayInteiro[0]);
+Console.WriteLine(message);
 
 
-MeuArray<string> arrayString = new MeuArray<string>();
 
-arrayString.AdicionarElementoArray("30");
 
-Console.WriteLine(arrayInteiro[0]);
+
+
+
+
+
+
+
+
+
+// // Classes genericas
+
+// MeuArray<int> arrayInteiro = new MeuArray<int>();
+
+// arrayInteiro.AdicionarElementoArray(30);
+
+// Console.WriteLine(arrayInteiro[0]);
+
+
+// MeuArray<string> arrayString = new MeuArray<string>();
+
+// arrayString.AdicionarElementoArray("30");
+
+// Console.WriteLine(arrayInteiro[0]);
 
 
 

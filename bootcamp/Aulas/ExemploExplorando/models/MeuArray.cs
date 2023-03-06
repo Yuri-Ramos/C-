@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ExemploExplorando.models
 {
-    public class MeuArray<T>
+    public class MeuArray<T>// Intitui uma classe generica 
     {
         private static int capacidade = 10;
         private int contador = 0;
