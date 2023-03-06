@@ -12,11 +12,11 @@ namespace ExemploPoo.Models
         public int Idade { get; set; }
 
 
-        public void Apresentar()
+        public virtual void Apresentar()
         {
             Console.WriteLine($"Hello, my name's {Nome}. My age is {Idade}.");
 
-            
+
         }
     }
 }
