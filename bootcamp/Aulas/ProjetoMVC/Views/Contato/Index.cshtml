@@ -1,0 +1,78 @@
+@model IEnumerable<ProjetoMVC.Models.Contato>
+
+    @{
+        ViewData["Title"] = "Listagem de contatos ";
+
+    }
+
+    <h2> Contatos</h2>
+
+    <p>
+<a asp-action="Criar"> Novo Contato </a>
+
+    </p>
+
+    <table class="table">
+        <thead>
+            <tr>
+               <th>@Html.DisplayNameFor(model => model.Id)
+
+               </th> 
+            </tr>
+              <tr>
+               <th>@Html.DisplayNameFor(model => model.Nome)
+
+               </th> 
+            </tr>
+              <tr>
+               <th>@Html.DisplayNameFor(model => model.Telefone)
+
+               </th> 
+            </tr>
+              <tr>
+               <th>@Html.DisplayNameFor(model => model.Ativo)
+
+               </th> 
+            </tr>
+            
+        </thead>
+<tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Id)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Id)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Nome)
+            </td>
+        </tr><tr>
+            <td>
+                @Html.DisplayFor(model => item.Telefone)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Ativo)
+            </td>
+            <td>
+                <a asp-action="Editar" asp-route-id ="item.id">Editar</a>|
+                <a asp-action="Editar" asp-route-id ="item.id">Editar</a>|
+
+                <a asp-action="Editar" asp-route-id ="item.id">Editar</a>|
+
+                <a asp-action="Editar" asp-route-id ="item.id">Editar</a>
+
+            </td>
+        </tr>
+    }
+</tbody>
+
+    </table>

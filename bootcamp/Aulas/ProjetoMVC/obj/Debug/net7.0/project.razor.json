@@ -18670,6 +18670,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+      "TargetPath": "Views\\Contato\\Criar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\ProjetoMVC\\Views\\Contato\\Index.cshtml",
+      "TargetPath": "Views\\Contato\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ramos\\Documents\\Yuri Estudos\\Projetos\\C#\\C-\\bootcamp\\Aulas\\ProjetoMVC\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
